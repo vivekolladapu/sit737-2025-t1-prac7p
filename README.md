@@ -1,5 +1,7 @@
-#Documentation
+**Documentation**
+
 **Output** 
+
 This application performs the calculations and prints in the form of JSON format.
 
 **Steps:**

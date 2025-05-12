@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  calculator:
+    build: .
+    ports:
+      - "3020:3020"
+    restart: always
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3020/add?num1=1&num2=1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3

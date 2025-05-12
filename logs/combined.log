@@ -1,0 +1,11 @@
+{"level":"info","message":"Calculator microservice running at http://localhost:3020","service":"extended-calculator-microservice"}
+{"level":"info","message":"Modulo: 2 % 3 = 2","service":"extended-calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2 ^ 3 = 8","service":"extended-calculator-microservice"}
+{"level":"info","message":"Square Root: sqrt(4) = 2","service":"extended-calculator-microservice"}
+{"level":"info","message":"Calculator microservice running at http://localhost:3020","service":"extended-calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2 ^ 3 = 8","service":"extended-calculator-microservice"}
+{"level":"error","message":"Invalid input: num must be a valid number","service":"extended-calculator-microservice"}
+{"level":"info","message":"Square Root: sqrt(4) = 2","service":"extended-calculator-microservice"}
+{"level":"error","message":"Invalid input: num must be a valid number","service":"extended-calculator-microservice"}
+{"level":"info","message":"Modulo: 4 % 2 = 0","service":"extended-calculator-microservice"}
+{"level":"info","message":"Modulo: 3 % 2 = 1","service":"extended-calculator-microservice"}
